@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+# Java
+*.class
+# Scala projects
+target
+project/target
+.bsp
+# User-specific IntelliJ files:
+*.iml
+**/.idea
